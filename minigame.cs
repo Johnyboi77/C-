@@ -1,3 +1,5 @@
+//interact in your terminal with "dotnet run" to execute
+
 using System;
 
 namespace TrueOrFalse
